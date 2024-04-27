@@ -1,2 +1,2 @@
-a = 'homework 2'
+a = 'homework 1'
 print('hello GB')
